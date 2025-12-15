@@ -209,9 +209,6 @@ generativelanguage.googleapis.com
 notebooklm.google.com
 notebooklm.google
 govai.com
-grok.com
-x.ai
-grok.x.com
 gupshup.io
 h2o.ai
 heidihealth.com
@@ -3713,5 +3710,6 @@ v0.app
  167.114.24.176/28
  134.209.101.182/32
  23.239.29.109/32
+
 
 
