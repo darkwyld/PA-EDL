@@ -1,5 +1,6 @@
 #Microsoft Cloud App Discovery Block Domain
 ai21.com
+automate.accessabacus.com
 abacus.ai
 beroeinc.com
 beroelive.ai
