@@ -380,7 +380,6 @@ varonis.com
 vendict.com
 veritonevoice.com
 console.cloud.google.comvertex-aistudiofreeform
-vimeo.comfeaturesvimeo-ai
 vistasocial.comai-assistant
 voicemaker.in
 wellsaidlabs.com
