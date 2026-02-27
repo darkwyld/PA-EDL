@@ -79,8 +79,6 @@ polly.me-south-1.amazonaws.com
 polly.sa-east-1.amazonaws.com
 polly.us-gov-west-1.amazonaws.com
 polly-fips.us-gov-west-1.amazonaws.com
-claude.ai
-claude.com
 anyword.com
 keywee.co
 getanyword.com
